@@ -35,3 +35,4 @@ export const CaseGraphPage: React.FC = () => {
     </div>
   );
 };
+

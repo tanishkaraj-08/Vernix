@@ -332,3 +332,4 @@ export const ComplaintDetailPage: React.FC = () => {
     </div>
   );
 };
+

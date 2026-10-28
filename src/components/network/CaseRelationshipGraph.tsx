@@ -471,3 +471,4 @@ export const CaseRelationshipGraph: React.FC<{ selectedInstitutionId?: string }>
     </div>
   );
 };
+

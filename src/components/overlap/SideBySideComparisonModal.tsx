@@ -371,3 +371,4 @@ export const SideBySideComparisonModal: React.FC<SideBySideComparisonModalProps>
     </Modal>
   );
 };
+

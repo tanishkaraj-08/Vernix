@@ -172,3 +172,4 @@ export const CaseTimeline: React.FC<CaseTimelineProps> = ({
     </div>
   );
 };
+

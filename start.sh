@@ -25,3 +25,4 @@ else
     echo "Starting production server on http://localhost:3000..."
     ./venv/bin/python3 server.py
 fi
+

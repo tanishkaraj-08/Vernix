@@ -39,3 +39,4 @@ export const BureauBadge: React.FC<{ bureau: Bureau; showFullName?: boolean }> =
     </span>
   );
 };
+

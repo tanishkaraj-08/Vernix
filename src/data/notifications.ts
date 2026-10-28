@@ -59,3 +59,4 @@ export const INITIAL_NOTIFICATIONS: Notification[] = [
     actionUrl: '/complaints/RB-2026-105',
   }
 ];
+

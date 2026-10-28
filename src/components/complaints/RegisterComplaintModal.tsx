@@ -267,3 +267,4 @@ export const RegisterComplaintModal: React.FC<RegisterComplaintModalProps> = ({
     </Modal>
   );
 };
+

@@ -260,3 +260,4 @@ export const Sidebar: React.FC<SidebarProps> = ({ collapsed, onToggle }) => {
     </aside>
   );
 };
+

@@ -218,3 +218,4 @@ export const INITIAL_INSTITUTIONS: Institution[] = [
     riskRating: 'Moderate',
   },
 ];
+

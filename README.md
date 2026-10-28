@@ -125,3 +125,4 @@ python3 server.py
 - All seeded records (institutions, student names, grievance descriptions) are realistic demonstrations created for the Smart India Hackathon 2026.
 - The AI overlap scoring engine runs deterministically in real-time within the browser runtime using natural language token extraction and normalized multi-factor heuristics.
 - All modifications (status updates, new complaints, coordination action item toggles) persist locally via `localStorage` and can be reverted anytime from **Settings → Reset Factory Demo Data**.
+

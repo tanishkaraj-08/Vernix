@@ -70,3 +70,4 @@ export const INITIAL_COORDINATION_RECORDS: CoordinationRecord[] = [
     ]
   }
 ];
+

@@ -50,3 +50,4 @@ export const AppLayout: React.FC = () => {
     </div>
   );
 };
+

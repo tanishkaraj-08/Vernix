@@ -258,3 +258,4 @@ export const CaseTrackingPage: React.FC = () => {
     </div>
   );
 };
+

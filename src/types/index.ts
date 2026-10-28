@@ -176,3 +176,4 @@ export interface SystemUser {
   designation: string;
   avatarUrl?: string;
 }
+

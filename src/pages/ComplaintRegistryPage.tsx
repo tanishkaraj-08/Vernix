@@ -434,3 +434,4 @@ export const ComplaintRegistryPage: React.FC = () => {
     </div>
   );
 };
+
