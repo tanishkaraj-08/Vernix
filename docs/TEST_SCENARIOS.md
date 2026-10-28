@@ -53,3 +53,4 @@
 - **Safeguard Verification:** Because the permanent institution IDs differ, the engine applies Rule 3.1:  
   `SAFEGUARD APPLIED: Different institutions capped strictly below 40% (Rule 3.1)`.
   The score is capped at **38%**, preventing false alerts across independent colleges.
+

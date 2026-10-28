@@ -83,3 +83,4 @@ The application simulates four distinct government tiers:
 | **Bureau Head** | Oversees bureau workload, approves case transfers, escalates overdue cases, convenes joint inquiries | Designated bureau (`RB` or `PGRC`) |
 | **Case Officer** | Advances case stages, inputs mandatory audit remarks, evaluates AI overlap flags | Assigned cases |
 | **Read-Only Auditor** | Inspects timeline records, reviews compliance reports, audits turnaround times (all mutations restricted) | Read-only inspection |
+

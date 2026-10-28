@@ -57,3 +57,4 @@ $$W_{\text{Text}} = \text{round}(\text{SimRatio} \cdot 30)$$
 2. **Mandatory Officer Accountability:**
    - **Confirm Related:** Officer commits verification note and initiates a joint coordination record.
    - **Dismiss False Positive:** System strictly blocks dismissal without an official administrative justification reason, ensuring full transparency under RTI and statutory inquiries.
+
